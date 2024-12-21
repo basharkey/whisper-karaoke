@@ -1,3 +1,6 @@
 ﻿tkinterdnd2
-faster_whisper
 flask
+demucs==4.0.0
+yt_dlp
+ytmusicapi
+faster-whisper
